@@ -1,0 +1,20 @@
+body {
+  min-width: 400px;
+}
+
+label {
+  display: block;
+}
+
+button {
+  display: block;
+}
+
+.errorMessage {
+  display: inline;
+  font-style: italic;
+}
+
+.invalid {
+  border-color: red;
+}
